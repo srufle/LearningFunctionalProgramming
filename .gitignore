@@ -1,3 +1,7 @@
 .env
-bin/
-obj/
+**/bin
+**/obj
+**/.psc-package
+**/.psci_modules
+**/.pulp-cache
+**/output
