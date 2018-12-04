@@ -1,14 +1,10 @@
 
+module HOFInPractice where
+
+-- using map
 
 
-
-
-
-
---using map
-
-
---filter??
+-- filter??
 -- f a =  a > 5
 -- --validation
 -- Just 10  -> Just 10
